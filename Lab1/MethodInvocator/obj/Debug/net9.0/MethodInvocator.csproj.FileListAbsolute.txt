@@ -1,0 +1,14 @@
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\bin\Debug\net9.0\MethodInvocator.exe
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\bin\Debug\net9.0\MethodInvocator.deps.json
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\bin\Debug\net9.0\MethodInvocator.runtimeconfig.json
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\bin\Debug\net9.0\MethodInvocator.dll
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\bin\Debug\net9.0\MethodInvocator.pdb
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\MethodInvocator.GeneratedMSBuildEditorConfig.editorconfig
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\MethodInvocator.AssemblyInfoInputs.cache
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\MethodInvocator.AssemblyInfo.cs
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\MethodInvocator.csproj.CoreCompileInputs.cache
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\MethodInvocator.dll
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\refint\MethodInvocator.dll
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\MethodInvocator.pdb
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\MethodInvocator.genruntimeconfig.cache
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodInvocator\obj\Debug\net9.0\ref\MethodInvocator.dll

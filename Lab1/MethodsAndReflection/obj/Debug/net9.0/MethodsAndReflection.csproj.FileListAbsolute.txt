@@ -1,0 +1,14 @@
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\bin\Debug\net9.0\MethodsAndReflection.exe
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\bin\Debug\net9.0\MethodsAndReflection.deps.json
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\bin\Debug\net9.0\MethodsAndReflection.runtimeconfig.json
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\bin\Debug\net9.0\MethodsAndReflection.dll
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\bin\Debug\net9.0\MethodsAndReflection.pdb
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\MethodsAndReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\MethodsAndReflection.AssemblyInfoInputs.cache
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\MethodsAndReflection.AssemblyInfo.cs
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\MethodsAndReflection.csproj.CoreCompileInputs.cache
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\MethodsAndReflection.dll
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\refint\MethodsAndReflection.dll
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\MethodsAndReflection.pdb
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\MethodsAndReflection.genruntimeconfig.cache
+C:\EHU\Sem 5\CS\Lab1_Reflection\MethodsAndReflection\obj\Debug\net9.0\ref\MethodsAndReflection.dll

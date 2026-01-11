@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MethodInvocator/1.0.0": {
+        "runtime": {
+          "MethodInvocator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodInvocator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
