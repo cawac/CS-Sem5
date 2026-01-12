@@ -1,0 +1,15 @@
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\bin\Debug\net9.0\Serialization.exe
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\bin\Debug\net9.0\Serialization.deps.json
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\bin\Debug\net9.0\Serialization.runtimeconfig.json
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\bin\Debug\net9.0\Serialization.dll
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\bin\Debug\net9.0\Serialization.pdb
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.AssemblyInfoInputs.cache
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.AssemblyInfo.cs
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.csproj.CoreCompileInputs.cache
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.sourcelink.json
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.dll
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\refint\Serialization.dll
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.pdb
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\Serialization.genruntimeconfig.cache
+C:\EHU\Sem 5\CS\Lab2\Serialization\Serialization\obj\Debug\net9.0\ref\Serialization.dll

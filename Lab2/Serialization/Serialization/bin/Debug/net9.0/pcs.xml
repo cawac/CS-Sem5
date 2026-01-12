@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PC Model="Asus" SerialNumber="1111111111" PCType="Tablet" />
+  <PC Model="HP" SerialNumber="95615F0C" PCType="Laptop" />
+  <PC Model="Asus" SerialNumber="1E687E9B" PCType="Desktop" />
+  <PC Model="HP" SerialNumber="916BB616" PCType="Laptop" />
+  <PC Model="Acer" SerialNumber="D39566E2" PCType="Tablet" />
+  <PC Model="Dell" SerialNumber="D7A23933" PCType="Desktop" />
+  <PC Model="Dell" SerialNumber="A4646A03" PCType="Tablet" />
+  <PC Model="Acer" SerialNumber="C265C752" PCType="Tablet" />
+  <PC Model="Lenovo" SerialNumber="A0D92DB4" PCType="Desktop" />
+  <PC Model="Lenovo" SerialNumber="9FA001B2" PCType="Tablet" />
+</ArrayOfPC>
