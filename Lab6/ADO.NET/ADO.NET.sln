@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET", "ADO.NET\ADO.NET.csproj", "{D7A8B1EA-EE3E-4A2F-87D8-32480B53FB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceLibrary", "..\DeviceLibrary\DeviceLibrary.csproj", "{E0D16384-ED81-4765-92C7-4AF8B94C15D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A8B1EA-EE3E-4A2F-87D8-32480B53FB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A8B1EA-EE3E-4A2F-87D8-32480B53FB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A8B1EA-EE3E-4A2F-87D8-32480B53FB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A8B1EA-EE3E-4A2F-87D8-32480B53FB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D16384-ED81-4765-92C7-4AF8B94C15D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D16384-ED81-4765-92C7-4AF8B94C15D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D16384-ED81-4765-92C7-4AF8B94C15D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D16384-ED81-4765-92C7-4AF8B94C15D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
